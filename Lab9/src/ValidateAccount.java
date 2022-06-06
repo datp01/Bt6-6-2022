@@ -1,7 +1,7 @@
 public class ValidateAccount {
     //Kiem tra dang nhap
-        public final String MOBILE = "090499999";
-        public final String PASSWORLD = "Ngo Van Khoai";
+        public final String MOBILE = "0859973822";
+        public final String PASSWORLD = "P T D";
         public boolean checkAccount(String mobile,String passworld){
             if (mobile.equals(MOBILE)){
                 if (passworld.equals(PASSWORLD)) {

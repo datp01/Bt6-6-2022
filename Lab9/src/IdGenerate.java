@@ -16,5 +16,7 @@ public class IdGenerate {
         }
         return result;
     }
-    private IdGenerate(){}
+    private IdGenerate(){
+
+    }
 }
